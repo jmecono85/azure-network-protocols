@@ -13,7 +13,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Network Protocols (ICMP)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
@@ -31,7 +31,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 6 Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM
   Observe ping requests and replies within WireShark.
 - Step 7 (Configuring a Firewall [Network Security Group]) Linux-Virtual Machine and disable (inbound) ICMP Traffic
-- Step 8
+- Step 8 Observe ping has Timed Out after disabling (inbound) ICMP Traffic
 
 
 <h2>Step 1</h2>
@@ -131,7 +131,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/user-attachments/assets/4ac16db9-3801-4c1a-b5d8-a389a32c7e9e)
 
 
+</p>
 
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<h2>Step 8</h2>
+
+<p>
+  
+
+![image](https://github.com/user-attachments/assets/e932cfc6-a33d-45de-8a76-25071fb26428)
 
 </p>
 
@@ -139,4 +151,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
 
