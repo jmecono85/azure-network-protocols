@@ -65,6 +65,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
   
 ![image](https://github.com/user-attachments/assets/fa7d34b6-64b5-475a-8287-cc59dff59e70)
+
+
+</p>
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<h2>Step 4</h2>
+
+<p>
+  
 ![image](https://github.com/user-attachments/assets/8474181c-453f-40b4-93fd-719b0c09a44e)
 
 </p>
@@ -74,12 +87,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<h2>Step 4</h2>
+
+<h2>Step 5</h2>
 
 <p>
   
-![image](https://github.com/user-attachments/assets/7f00a886-64f1-4319-be3f-64c0a6f33d47)
-![image](https://github.com/user-attachments/assets/b22338d5-dede-4315-83ae-b416d1c840c0)
+
 
 
 </p>
@@ -90,12 +103,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 
-<h2>Step 4</h2>
+<h2>Step 6</h2>
 
 <p>
   
-![image](https://github.com/user-attachments/assets/7f00a886-64f1-4319-be3f-64c0a6f33d47)
-![image](https://github.com/user-attachments/assets/b22338d5-dede-4315-83ae-b416d1c840c0)
+
 
 
 </p>
@@ -106,28 +118,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 
-<h2>Step 4</h2>
+<h2>Step 7</h2>
 
 <p>
   
-![image](https://github.com/user-attachments/assets/7f00a886-64f1-4319-be3f-64c0a6f33d47)
-![image](https://github.com/user-attachments/assets/b22338d5-dede-4315-83ae-b416d1c840c0)
 
-
-</p>
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-
-<h2>Step 4</h2>
-
-<p>
-  
-![image](https://github.com/user-attachments/assets/7f00a886-64f1-4319-be3f-64c0a6f33d47)
-![image](https://github.com/user-attachments/assets/b22338d5-dede-4315-83ae-b416d1c840c0)
 
 
 </p>
