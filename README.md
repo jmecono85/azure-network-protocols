@@ -30,7 +30,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 5 Within Wireshark, filter for ICMP traffic only
 - Step 6 Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM
   Observe ping requests and replies within WireShark.
-- Step 7
+- Step 7 (Configuring a Firewall [Network Security Group]) Linux-Virtual Machine and disable (inbound) ICMP Traffic
+- Step 8
 
 
 <h2>Step 1</h2>
@@ -111,7 +112,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 
-![image](https://github.com/user-attachments/assets/12cf20b5-b04e-4474-a830-91f675284ef2)
+![image](https://github.com/user-attachments/assets/2c258a82-3037-467f-800d-a1eeba5a48e5)
+
 
 </p>
 
@@ -125,6 +127,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
   
+![image](https://github.com/user-attachments/assets/b0b77daa-b77b-4c5e-ba3a-1ebf37719a58)
+
 
 
 
