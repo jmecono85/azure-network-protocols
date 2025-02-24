@@ -70,7 +70,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   
 ![image](https://github.com/user-attachments/assets/fa7d34b6-64b5-475a-8287-cc59dff59e70)
 
-
 </p>
 
 <p>
@@ -111,9 +110,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h2>Step 6</h2>
 
 <p>
-  
 
-
+![image](https://github.com/user-attachments/assets/12cf20b5-b04e-4474-a830-91f675284ef2)
 
 </p>
 
