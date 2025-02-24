@@ -25,8 +25,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Step 1 Create a Windows 10 Virtual Machine (VM)
 - Step 2 Create a Linux (Ubuntu) VM 
-- Step 3 
-- Step 4
+- Step 3 Use Remote Desktop to connect to your Windows 10 Virtual Machine
+- Step 4 Within your Windows 10 Virtual Machine, Install Wireshark WWW.Wireshark.com
+- step 5 Within Wireshark, filter for ICMP traffic only
 
 <h2>Step 1</h2>
 
@@ -45,6 +46,35 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <h2>Step 2</h2>
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/7f00a886-64f1-4319-be3f-64c0a6f33d47)
+![image](https://github.com/user-attachments/assets/b22338d5-dede-4315-83ae-b416d1c840c0)
+
+
+</p>
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<h2>Step 3</h2>
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/fa7d34b6-64b5-475a-8287-cc59dff59e70)
+![image](https://github.com/user-attachments/assets/8474181c-453f-40b4-93fd-719b0c09a44e)
+
+</p>
+
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<h2>Step 4</h2>
 
 <p>
   
